@@ -156,19 +156,4 @@ Start ──► What do   ├─ Multiple ADCs available? ─ Yes ──► CRT 
 
 MIT License - Feel free to use for education and research.
 
----
 
-## 🙋 Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-## 📧 Contact
-
-[Your Name] - [your.email@example.com]
-
-Project Link: [https://github.com/yourusername/anti-aliasing-recovery](https://github.com/yourusername/anti-aliasing-recovery)

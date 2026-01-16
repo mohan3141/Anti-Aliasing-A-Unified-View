@@ -4,8 +4,6 @@
   <img src="docs/figures/aliasing_demo.png" alt="Aliasing Demo" width="600">
 </p>
 
-**欠采样条件下的信号还原方法 MATLAB 仿真教程**
-
 Signal recovery methods under sub-Nyquist sampling conditions.
 
 ---
